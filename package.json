@@ -1,0 +1,20 @@
+{
+  "name": "chai-aur-code--backened",
+  "version": "1.0.0",
+  "description": "For using express first time",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express.js",
+    "js",
+    "node.js"
+  ],
+  "author": "Praveen Kumar Prajapati",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
